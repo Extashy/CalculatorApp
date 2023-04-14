@@ -19,7 +19,7 @@ App consists of three components:
 + **Buttons component**<br>
     This component contains app buttons and button event handlers.
 + Main SCSS file with common styles.
-+ ## :pushpin: Features
+## :pushpin: Features
 + You can use the first operand as a negative number.
 + If you don't enter the numbers before pressing the "=" (even with selected math operator), you'll receive a message: "Please enter the number".
 + If you try to divide by zero, you'll receive a message: "Cant be divided by zero".
